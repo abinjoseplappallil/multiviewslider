@@ -9,7 +9,7 @@ import SwiperCore from "swiper/core";
 @Component({
   selector: 'app-slider',
   templateUrl: './slider.component.html',
-  styleUrls: ['./slider.component.scss']
+  styleUrls: ['./j.css']
 })
 export class SliderComponent implements  OnInit {
 
