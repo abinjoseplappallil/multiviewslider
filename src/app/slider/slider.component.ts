@@ -45,7 +45,7 @@ screenwidth:number=window.innerWidth;
       freeMode: true,
       watchSlidesVisibility: true,
       watchSlidesProgress: true,
-      
+    
     });
     
   var sliderSelector = '.swiper-container';
